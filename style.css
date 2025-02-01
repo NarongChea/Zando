@@ -36,4 +36,6 @@
     transform: translate(0,-5px);
     box-shadow: none !important;
 }
-
+.fs-sm{
+    font-size: 14px;
+}
